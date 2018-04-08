@@ -1,0 +1,22 @@
+Funcional
+CAPTURAR IMAGEM
+CLASSIFICA
+INFERIR A RESPOSTA
+MANTER REGISTRO DE GLEBA
+MANTER REGISTRO TALHÃO
+
+-------------------------------------------
+Não funcional
+Exatidão - grau de certeza = NIVEL MINIMO DE APROXIMDIADE 
+
+-------------------------------------------
+Perguntas:
+1 - O aprendizado de maquina apenas aprende, e a rede neural ira falar se é ou não doença?
+2- O que é o Tensorflow?
+3 - O que é o keras?
+4 - Tera problema apenas deixar uma lista de historio de doenças?, sem geração de relatorio?
+
+
+---------------------
+1 - O que é o anaconda?
+Anaconda - Gerenciador de pacotes
