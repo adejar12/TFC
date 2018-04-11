@@ -20,3 +20,17 @@ Perguntas:
 ---------------------
 1 - O que é o anaconda?
 Anaconda - Gerenciador de pacotes
+O que é rede neural convulocionaria em Deep Learning?
+É uma das varias técnicas de deep learning, sendo que a convulução consiste em juntar 2 funções para formar uma. Sendo que a segunda
+função costuma ser menor que a primeira, portanto ela passa a aer o nucleo da convulução, e o centro do nucleo costuma ser o centro
+da função, por exemplo: 1 -1 1, o centro do núcleo é o -1. E vai andando posteriormente a segunda função sobre a primeira, sendo que
+a segunda função é o nucleo da convulução: https://www.youtube.com/watch?v=DXnyuUZcAAI, melhor ilustrado.
+	Posteriormente é mais facil encontrar padrões, você pode escolher o passo que o núclero vai dar perante a função 1, o taman-
+ho do nucleo. Mapa de atributo é o resultado da convulção. Algumas informações que deve se levar:
+	-Quantos nucleros sera utilizados
+	-O tamanho dos passos
+	-O tamaho do nucleo
+	Pode-se usar funções após a rede ter gerado a fundção 3 (que a junção do 1 e da 2). A subamostragem é uma 
+função obtida a fim de diminuir a perda de padrão da rede ao identificar os pardões da imagem, ex: valo maximo. Esse
+método é chamado de subampling.
+	Pesos: são os 1 -1 1, exemplo
