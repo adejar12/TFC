@@ -4,6 +4,7 @@ CLASSIFICA
 INFERIR A RESPOSTA
 MANTER REGISTRO DE GLEBA
 MANTER REGISTRO TALHÃO
+SALVAR IMAGENS
 
 -------------------------------------------
 Não funcional
@@ -11,10 +12,12 @@ Exatidão - grau de certeza = NIVEL MINIMO DE APROXIMDIADE
 
 -------------------------------------------
 Perguntas:
-1 - O aprendizado de maquina apenas aprende, e a rede neural ira falar se é ou não doença?
 2- O que é o Tensorflow?
 3 - O que é o keras?
 4 - Tera problema apenas deixar uma lista de historio de doenças?, sem geração de relatorio?
+5 - Registro irá virar um requisito?, se SIM devo apagar registros?
+6 - Lista de Casos de Uso será necessário?, pois há poucos requisitos
+7 - Manter area, esse requisito será necessario ou devera ser trocado por "manter registro"?
 
 
 ---------------------
@@ -34,3 +37,6 @@ ho do nucleo. Mapa de atributo é o resultado da convulção. Algumas informações q
 função obtida a fim de diminuir a perda de padrão da rede ao identificar os pardões da imagem, ex: valo maximo. Esse
 método é chamado de subampling.
 	Pesos: são os 1 -1 1, exemplo
+
+2 - O aprendizado de maquina apenas aprende, e a rede neural ira falar se é ou não doença?
+	Sim
